@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+#### Quick start
+
+you will need to create .env.development.local file in the root directory of your project and provide a variable for the API from movieDB, eg: REACT_APP_MOVIE_DB_API = "your-api-key-here"
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
