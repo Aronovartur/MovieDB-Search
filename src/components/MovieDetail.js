@@ -2,7 +2,7 @@ import React from "react";
 import Card from "react-bootstrap/cjs/Card";
 import ListGroup from "react-bootstrap/cjs/ListGroup";
 import ListGroupItem from "react-bootstrap/cjs/ListGroupItem";
-import Button from "react-bootstrap/cjs/Button";
+
 const MovieDetail = ({movie}) => {
     if (!movie) {
         return <div>Select a Movie...</div>

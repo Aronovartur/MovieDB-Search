@@ -1,6 +1,6 @@
 import React from "react";
 import Moment from 'react-moment';
-import MovieDetail from "./MovieDetail";
+
 
 const Movie =({movie,onMovieSelect}) => {
 
